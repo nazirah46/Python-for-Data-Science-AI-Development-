@@ -1,2 +1,2 @@
-# Python-for-Data-Science-AI-Development-
-Week 1
+# Python-for-Data-Science-AI-Development
+First Python Code
